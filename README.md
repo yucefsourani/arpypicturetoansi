@@ -1,5 +1,10 @@
 # arpypicturetoansi
 
+For Fun Print picture To Terminal With Color
+
+``` curl https://raw.githubusercontent.com/yucefsourani/arpypicturetoansi/main/lebanon.txt ```
+
+``` curl https://raw.githubusercontent.com/yucefsourani/arpypicturetoansi/main/palestine.txt ```
 
 # Screenshot
 
