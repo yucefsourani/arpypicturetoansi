@@ -8,9 +8,6 @@ For Fun Print picture To Terminal With Color
 
 # Screenshot
 
-![Alt text](https://raw.githubusercontent.com/yucefsourani/arpypicturetoansi/main/Screenshot/0.png "Screenshot")
-
-
 ![Alt text](https://raw.githubusercontent.com/yucefsourani/arpypicturetoansi/main/Screenshot/1.png "Screenshot")
 
 
